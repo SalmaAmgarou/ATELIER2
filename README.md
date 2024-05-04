@@ -29,3 +29,6 @@ T-SNE visualized high-dimensional word embeddings in 2D space, aiding in underst
 Word embedding techniques offer powerful tools for representing words and capturing semantic relationships. Choosing the best technique depends on the specific task and dataset. While one-hot encoding and BoW are simple, TF-IDF is better for document retrieval. Word2Vec, GloVe, and FastText provide more nuanced representations for various NLP applications.
 ## Learning Outcomes
 This lab provided valuable experience in applying NLP techniques like regex, rule-based approaches, and word embedding models. It highlighted their strengths and limitations and emphasized the importance of choosing the right method for specific tasks. Further exploration is encouraged for deeper understanding and improved NLP skills.
+#### LINKS USED:
+FASTTEXT: https://fasttext.cc/docs/en/crawl-vectors.html
+GLOVE: https://www.kaggle.com/datasets/watts2/glove6b50dtxt?resource=download
